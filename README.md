@@ -18,7 +18,7 @@
    - Se ingresa los datos del usuario para solicitar un servicio 
    - Se construyó usando este [Backend](https://github.com/VanessaMMH/Backend) desarrollado en java.
 
-![Solicita](Solicita.png)
+![Solicita](screencapture-localhost-8081-solicita.png)
 
 
 # Page404
