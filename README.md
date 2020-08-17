@@ -1,6 +1,6 @@
 
 # Servicios generales
-Realizado por Vanessa Macedo Huaman
+`Realizado por Vanessa Macedo Huaman`
 ### El proyecto consta de 3 vistas:
 - home
 - solicita
