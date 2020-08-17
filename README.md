@@ -1,5 +1,5 @@
 
-# Proyecto - Servicios generales
+# Servicios generales
 ### El proyecto consta de 3 vistas:
 - home
 - solicita
