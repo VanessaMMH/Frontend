@@ -1,6 +1,6 @@
 
 # Proyecto - Servicios generales
-## El proyecto consta de 3 vistas:
+### El proyecto consta de 3 vistas:
 - home
 - solicita
 - page404
