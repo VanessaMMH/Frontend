@@ -9,7 +9,7 @@
 1. Vista **/home** 
    - Se muestra los servicios que ofrece la pagina, el usuario al darle click en cualquier boton que indica `solicita un servicio` lo redireccionara a otra vista llamada **/solicita**
    
-![Home](Home)
+![Home](screencapture-localhost-8081-home.png)
 
 
 
